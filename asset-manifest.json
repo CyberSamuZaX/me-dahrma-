@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/me-dahrma-/static/css/main.1cde10e0.css",
+    "main.js": "/me-dahrma-/static/js/main.f3db4eff.js",
+    "index.html": "/me-dahrma-/index.html",
+    "main.1cde10e0.css.map": "/me-dahrma-/static/css/main.1cde10e0.css.map",
+    "main.f3db4eff.js.map": "/me-dahrma-/static/js/main.f3db4eff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cde10e0.css",
+    "static/js/main.f3db4eff.js"
+  ]
+}
